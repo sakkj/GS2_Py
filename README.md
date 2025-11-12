@@ -38,10 +38,11 @@ Para que o sistema funcione, o usuário deve cadastrar seu nível (1-5) nas comp
     ```
 3.  Navegue até a pasta do projeto:
     ```bash
-    cd gs2_py
+    cd GS2_Py
     ```
 4.  Execute o arquivo `main.py`:
     ```bash
     python main.py
     ```
 5.  Siga as instruções no terminal para criar seu perfil. Quando solicitado o "Nome da competência", utilize um dos nomes da lista de "Competências Utilizadas" acima.
+
