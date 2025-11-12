@@ -46,3 +46,9 @@ Para que o sistema funcione, o usuário deve cadastrar seu nível (1-5) nas comp
     ```
 5.  Siga as instruções no terminal para criar seu perfil. Quando solicitado o "Nome da competência", utilize um dos nomes da lista de "Competências Utilizadas" acima.
 
+## Alunos do grupo
+Felipe Hui Hattori - RM:565169
+Lucas Kenzo - RM:561325
+
+
+
