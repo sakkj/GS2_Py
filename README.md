@@ -34,11 +34,11 @@ Para que o sistema funcione, o usuário deve cadastrar seu nível (1-5) nas comp
 1.  Certifique-se de ter o Python 3 instalado.
 2.  Clone este repositório:
     ```bash
-    git clone [URL-DO-SEU-REPOSITORIO]
+    git clone https://github.com/sakkj/GS2_Py
     ```
 3.  Navegue até a pasta do projeto:
     ```bash
-    cd seu-projeto
+    cd gs2_py
     ```
 4.  Execute o arquivo `main.py`:
     ```bash
