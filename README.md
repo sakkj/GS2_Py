@@ -52,6 +52,9 @@ Para que o sistema funcione, o usuário deve cadastrar seu nível (1-5) nas comp
 
 2.    Lucas Kenzo - RM:561325
 
+3.    Rafael Vaz de Lima - RM:566429
+
+
 
 
 
